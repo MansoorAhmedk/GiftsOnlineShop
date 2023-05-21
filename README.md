@@ -3,7 +3,7 @@
 ![image](https://github.com/MansoorAhmedk/GiftsOnlineShop/assets/69378309/23ec1da0-62ba-4111-9fc0-e78eba2500d5)
 <h2>Category Page</h2>
 ![image](https://github.com/MansoorAhmedk/GiftsOnlineShop/assets/69378309/593bd2ae-a7e8-409c-a6a9-b7f7c0e7daaa)
->h2>Cup Page</h2>
+<h2>Cup Page</h2>
 ![image](https://github.com/MansoorAhmedk/GiftsOnlineShop/assets/69378309/4bda249b-534f-4187-8946-7fba1ab47af4)
 <h2>Bracelet Page</h2>
 ![image](https://github.com/MansoorAhmedk/GiftsOnlineShop/assets/69378309/d1d0fa94-ab67-4c68-85b0-176eb37cafc9)
